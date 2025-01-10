@@ -20,3 +20,7 @@ and again.
 
 [Feature branch 1]
 Last Christmas
+
+
+[Feature branch 2]
+I gave you my heart
